@@ -1,6 +1,6 @@
 # matlab-multi-object-counting-coursework
 这是我们小组的机器视觉课程作业。/This is our group’s course project.
-#基于 MATLAB 的多目标物品自动计数与位置标注系统
+##基于 MATLAB 的多目标物品自动计数与位置标注系统
 机器视觉与图像处理课程大作业 - 方向2：多目标物品自动计数与位置标注系统  
 ##1. 项目简介
 
@@ -27,16 +27,11 @@
 | 输出结果 | 识别结果图、目标数量、中心坐标、面积 |
 
 ## 4. 项目目录结构
-项目根目录
-├─ code/ # 程序代码文件夹
-│ └─ multi_object_count_gui.m # 完整带注释 MATLAB 主程序
-├─ images/ # 实验原始素材
-│ └─ 硬币、橡皮、瓶盖、零散零件实拍测试图
-├─ report/ # 报告文档
-│ └─ full_report.docx # 完整版项目报告（已清除姓名、学号隐私）
-├─ results/ # 程序输出效果图
-│ └─ GUI 界面截图、带目标标注识别结果图
-└─ README.md # 项目说明文档
+1. code：存放主程序 multi_object_count_gui.m，带完整注释
+2. images：存放硬币、橡皮、瓶盖、零散零件实拍测试原图
+3. report：存放 full_report.docx，完整版课程报告（已删除姓名、学号隐私）
+4. results：存放GUI运行截图、带目标标注的识别结果图片
+5. README.md：本项目运行说明文档
 
 ##5. 运行步骤
 
